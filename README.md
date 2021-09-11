@@ -37,6 +37,6 @@ You can talk to me on any of these social media platforms!
 
 # GitHub Stats
 
-![Enigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical)
+![Enigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Enigma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enigma0884&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
