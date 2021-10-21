@@ -34,7 +34,7 @@ You can talk to me on any of these social media platforms!
   <img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
   <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=ffffff&color=47A248">
   <img src="https://img.shields.io/badge/-Redis-brightgreen?style=for-the-badge&logo=Redis&logoColor=ffffff&color=DC382D">
-  <img src="https://img.shields.io/badge/-NGINX-brightgreen?style=for-the-badge&logo=Redis&logoColor=ffffff&color=009639">
+  <img src="https://img.shields.io/badge/-NGINX-brightgreen?style=for-the-badge&logo=NGINX&logoColor=ffffff&color=009639">
 </p>
 
 # GitHub Stats
