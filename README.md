@@ -37,8 +37,11 @@ You can talk to me on any of these social media platforms!
   <img src="https://img.shields.io/badge/-NGINX-brightgreen?style=for-the-badge&logo=NGINX&logoColor=ffffff&color=009639">
 </p>
 
-# GitHub Stats
+# Code Statistics
 
 ![Enigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Enigma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enigma0884&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
+
+[![wakatime](https://wakatime.com/badge/user/b5a8a03a-b5e2-4f31-b598-a3d5a0feef3e.svg)](https://wakatime.com/@b5a8a03a-b5e2-4f31-b598-a3d5a0feef3e)
+
