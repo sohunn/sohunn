@@ -29,7 +29,6 @@ You can talk to me on any of these social media platforms!
   <img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=339933">
   <img src="https://img.shields.io/badge/-Express%20JS-brightgreen?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000">
   <img src="https://img.shields.io/badge/-React%20JS-brightgreen?style=for-the-badge&logo=React&logoColor=000000&color=61DAFB">
-  <img src="https://img.shields.io/badge/-React%20Native-brightgreen?style=for-the-badge&logo=React&logoColor=000000&color=61DAFB">
   <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
   <img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
   <img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
