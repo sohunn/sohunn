@@ -8,15 +8,15 @@ Apart from developement, I enjoy watching Hollywood movies / shows, travelling, 
 You can talk to me on any of these social media platforms!
 
 <p align="left">
-  <a href="https://discord.com/users/620226249448488981" target="blank">
+  <a href="https://discord.com/users/620226249448488981" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-brightgreen?style=for-the-badge&logo=Discord&logoColor=ffffff&color=7289DA" alt="Discord">
   </a>
 
-  <a href="https://twitter.com/enigma0884" target="blank">
+  <a href="https://twitter.com/enigma0884" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-brightgreen?style=for-the-badge&logo=Twitter&logoColor=ffffff&color=1DA1F2" alt="Twitter">
   </a>
 
-   <a href="https://steamcommunity.com/profiles/76561198986231280/" target="blank">
+   <a href="https://steamcommunity.com/profiles/76561198986231280/" target="_blank">
     <img src="https://img.shields.io/badge/-Steam-brightgreen?style=for-the-badge&logo=Steam&logoColor=ffffff&color=13477A" alt="Twitter">
   </a>
 </p>
