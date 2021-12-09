@@ -5,7 +5,7 @@ Apart from developement, I enjoy watching Hollywood movies / shows, travelling, 
 
 # My Socials
 
-You can talk to me on any of these social media platforms!
+You can talk to me on any of these platforms!
 
 <p align="left">
   <a href="https://discord.com/users/620226249448488981" target="_blank">
