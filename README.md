@@ -17,7 +17,7 @@ You can talk to me on any of these social media platforms!
   </a>
 
    <a href="https://steamcommunity.com/profiles/76561198986231280/" target="blank">
-    <img src="https://img.shields.io/badge/-Steam-brightgreen?style=for-the-badge&logo=Steam&logoColor=ffffff&color=1DA1F2" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Steam-brightgreen?style=for-the-badge&logo=Steam&logoColor=ffffff&color=13477A" alt="Twitter">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ You can talk to me on any of these social media platforms!
   <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
   <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
   <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
-  <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=007396">
+  <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=3776AB">
   <img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=339933">
   <img src="https://img.shields.io/badge/-Express%20JS-brightgreen?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000">
   <img src="https://img.shields.io/badge/-React%20JS-brightgreen?style=for-the-badge&logo=React&logoColor=000000&color=61DAFB">
