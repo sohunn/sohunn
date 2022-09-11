@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Enigma, an 18 year old Computer Science engineering student currently venturing into full-stack developement. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
+I'm Enigma. Irl, I go by the name Sohan. I'm a 19 year old Computer Science engineering student and a fullstack developer. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
 Apart from developement, I enjoy watching Hollywood movies / shows, travelling, discovering new places, spending time with my doggo and weekend bike rides on my Kawasaki er-6n!
 
 # My Socials
