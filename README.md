@@ -29,7 +29,7 @@ You can talk to me on any of these platforms!
   <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
   <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
   <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
-  <img src="https://img.shields.io/badge/-Go-brightgreen?style=for-the-badge&logo=Go&logoColor=#00ADD8&color=#00ADD8">
+  <img src="https://img.shields.io/badge/-Go-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
   <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=3776AB">
   <img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=339933">
