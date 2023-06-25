@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Sohan. I'm a 20 year old Computer Science engineering student and a fullstack developer. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
+I'm Sohan, a Computer Science engineering student and a fullstack developer. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
 Apart from developement, I enjoy going to the gym, watching movies/shows, travelling and exploring new places on my Continental GT 650 and Kawasaki ER-6n!
 
 # Languages & Technologies I use
