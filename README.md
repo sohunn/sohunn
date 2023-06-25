@@ -1,25 +1,7 @@
 # Hello there 👋
 
-I'm Enigma. Irl, I go by the name Sohan. I'm a 19 year old Computer Science engineering student and a fullstack developer. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
-Apart from developement, I enjoy watching Hollywood movies / shows, travelling, discovering new places, spending time with my doggo and weekend bike rides on my Kawasaki er-6n!
-
-# My Socials
-
-You can talk to me on any of these platforms!
-
-<p align="left">
-  <a href="https://discord.com/users/620226249448488981" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-brightgreen?style=for-the-badge&logo=Discord&logoColor=ffffff&color=7289DA" alt="Discord">
-  </a>
-
-  <a href="https://twitter.com/enigma0884" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-brightgreen?style=for-the-badge&logo=Twitter&logoColor=ffffff&color=1DA1F2" alt="Twitter">
-  </a>
-
-   <a href="https://steamcommunity.com/profiles/76561198986231280/" target="_blank">
-    <img src="https://img.shields.io/badge/-Steam-brightgreen?style=for-the-badge&logo=Steam&logoColor=ffffff&color=13477A" alt="Twitter">
-  </a>
-</p>
+I'm Sohan. I'm a 20 year old Computer Science engineering student and a fullstack developer. I have a passion to constantly learn new things as well as to share my knowledge with other developers. Problem solving and working on various projects have always brought a smile to my face and is a reason why I chose CS as a career path.
+Apart from developement, I enjoy going to the gym, watching movies/shows, travelling and exploring new places on my Continental GT 650 and Kawasaki ER-6n!
 
 # Languages & Technologies I use
 
@@ -45,9 +27,9 @@ You can talk to me on any of these platforms!
 
 # Code Statistics
 
-![Enigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Sohunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-![Enigma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enigma0884&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
+![Sohunn's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enigma0884&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/b5a8a03a-b5e2-4f31-b598-a3d5a0feef3e.svg)](https://wakatime.com/@b5a8a03a-b5e2-4f31-b598-a3d5a0feef3e)
 
