@@ -27,7 +27,7 @@ Apart from developement, I enjoy going to the gym, watching movies/shows, travel
 
 # Code Statistics
 
-![Sohunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma0884&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Sohunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohunn&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Sohunn's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enigma0884&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
 
